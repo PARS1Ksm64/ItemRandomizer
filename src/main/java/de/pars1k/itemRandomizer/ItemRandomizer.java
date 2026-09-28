@@ -25,7 +25,7 @@ import java.util.*;
 
 public final class ItemRandomizer extends JavaPlugin implements Listener {
 
-    private static final String PREFIX = "§8[§bChallenge§8] §r";
+    private static final String PREFIX = "§8[§bChallenges§8] §r";
 
     private boolean running = false;
     private boolean started = false;

@@ -9,4 +9,4 @@ commands:
   pause:
     description: Pausiert oder setzt die Challenge fort
   resume:
-    description: Setzt die pausierte Challenge fort
+    description: Setzt die pausierte Challenge fort.
