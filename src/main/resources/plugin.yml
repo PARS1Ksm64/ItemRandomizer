@@ -1,0 +1,12 @@
+name: ItemRandomizer
+version: '${version}'
+
+main: de.pars1k.itemRandomizer.ItemRandomizer
+api-version: '26.2'
+commands:
+  start:
+    description: Startet die Challenge
+  pause:
+    description: Pausiert oder setzt die Challenge fort
+  resume:
+    description: Setzt die pausierte Challenge fort
